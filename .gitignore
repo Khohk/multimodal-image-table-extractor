@@ -1,0 +1,82 @@
+# =====================
+# PYTHON / AI PROJECT
+# =====================
+
+# Môi trường ảo
+venv/
+.venv/
+env/
+ENV/
+imgtable/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build / Distribution
+build/
+dist/
+*.egg-info/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# Hệ thống (Windows / macOS)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs / Debug
+logs/
+*.log
+*.tmp
+
+# Model cache / Checkpoints
+cache/
+.cache/
+models/
+storage/
+weights/
+runs/
+outputs/
+*.ckpt
+*.pt
+*.pth
+
+# Extracted content (rất nặng)
+extracted_content/
+data/
+datasets/
+
+# Hugging Face / Transformers cache
+~/.cache/huggingface/
+~/.cache/torch/
+~/.huggingface/
+
+# MongoDB local dump / backup
+dump/
+*.bson
+*.jsonl
+
+# Environment configs / Keys
+.env
+*.env
+.env.*
+
+# VSCode workspace settings
+.vscode/
+.history/
+*.code-workspace
+
+# Test và Sandbox
+test_*.py
+__tests__/
+sandbox/
+scratch/

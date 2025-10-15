@@ -1,0 +1,29 @@
+
+# AI Analysis Dependencies
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
+
+# Table Processing
+pandas>=2.0.0
+tabulate>=0.9.0  # For markdown table formatting
+
+# Embedding - CLIP
+torch>=2.0.0
+torchvision>=0.15.0
+transformers==4.36.2
+# ĐÃ SỬA: Cố định phiên bản để tương thích Detectron2 v0.6
+pillow==8.4.0 
+numpy>=1.24.0
+
+# MongoDB Storage
+pymongo>=4.6.0
+motor>=3.3.0  # Async MongoDB driver
+# Optional: Vector Search (if using MongoDB Atlas)
+# pymongo[srv]>=4.6.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Progress bars
+tqdm>=4.66.0

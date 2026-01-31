@@ -1,4 +1,4 @@
-# 🚀 Complete Guide - Multimodal PDF Extractor with MongoDB
+#  Complete Guide - Multimodal PDF Extractor with MongoDB
 
 ## 📋 Table of Contents
 
@@ -581,7 +581,7 @@ print(f"Exported {len(figures)} figures")
 
 ---
 
-## 📞 Support
+##  Support
 
 ### Check Logs
 
@@ -610,7 +610,7 @@ mongosh
 
 ---
 
-## 🎉 Summary
+##  Summary
 
 ### Complete Workflow
 
@@ -627,7 +627,6 @@ mongosh
 python main_pipeline.py --all
 ```
 
-**That's it!** 🚀
 
 Your multimodal data is now in MongoDB with:
 - ✅ AI-generated summaries
@@ -636,4 +635,3 @@ Your multimodal data is now in MongoDB with:
 - ✅ Vector similarity search
 - ✅ Structured metadata
 
-Happy researching! 📚🔬
